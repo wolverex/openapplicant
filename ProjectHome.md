@@ -1,0 +1,1 @@
+Web based ATS platform for applicant tracking, assessments, background checks, application processing, resume parsing, reporting, etc.
